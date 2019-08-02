@@ -1,4 +1,11 @@
+## Password Vault is a very simple Windows Form C# / SQL Server project.
+
 Password Vault is a one table SQL Server C# application, which is good for demo purposes.
+
+Thanks to NuGet I can build a complete C# / SQL Server app in about 15 minutes in a video, including the
+4:15 seconds to setup DataTier.Net.
+
+I will post the YouTube video here once finished.
 
 To run password vault:
 
@@ -18,3 +25,5 @@ Watch this video (video URL coming soon)
 Or
 
 Text instructions coming soon.
+
+
