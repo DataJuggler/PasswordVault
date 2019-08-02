@@ -1,0 +1,20 @@
+Password Vault is a one table SQL Server C# application, which is good for demo purposes.
+
+To run password vault:
+
+1. Create a new SQL Server database and read the instructions in the read me.txt file located in the SQL folder.
+
+2. Set your connection string in PasswordVault\PasswordVault\PasswordVault\App.config
+    Tip: Use the Connection String Builder which is included with DataTier.Net
+    https://github.com/DataJuggler/DataTier.Net
+
+3. Run Password Vault. If you can add new Site / Password combinations your database and connectionstring
+is setup.
+
+To run the tutorial
+
+Watch this video (video URL coming soon)
+
+Or
+
+Text instructions coming soon.
