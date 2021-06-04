@@ -1,12 +1,8 @@
 I am working on a new version today (June 4, 2021). Come back soon.
 
-Step 1 Create a SQL Server Database named PasswordVault
+Step 1. Create a new database named PasswordVault
 
-If you are following along with the Password Vault tutorial located here: (coming soon)
-Step 2. Execute Table Site.sql
-
-If you only want to use Password Vault the program.
-Step 2. Execute Table Site And Procedures.sql
+Step 2. Execute Tables and Procedures.sql
 
 Step 3. Do the one handed clap. You're done.
 
